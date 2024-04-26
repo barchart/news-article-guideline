@@ -33,7 +33,7 @@ Here's a full example:
 
 ```
 <?xml version="1.0"?>    
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">    
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">    
    <channel>    
       <title>NASA ISS Feed</title>    
       <link>http://www.nasa.gov/</link>    
